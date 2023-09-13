@@ -7,6 +7,11 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
+a {
+    color: #fff;
+}
+
 html{
     scroll-behavior: smooth;
 }
